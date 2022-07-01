@@ -34,7 +34,8 @@ VALUES('Márcio Calisto', 17, '62729309330', 'Rua monsenhor sábino feijão 1913
 ('Manoela', 35, '41378209345', 'Av. conégo de castro 872, Parque são josé', 1),
 ('Fernanda', 30, '98290326535', 'Av. ósorio de paiva 6723, Siqueira',1),
 ('Miguel', 29, '30948237845', 'Rua raimundo marques 971, Canidezinho', 1),
-('Joana', 18, '37856443234', 'Rua franciscano 435, Bom jardim', 1);
+('Joana', 18, '37856443234', 'Rua franciscano 435, Bom jardim', 1),
+('Maxine', 20, '28936745654', 'Rua dos golfinhos 1762, Porto das dunas', 1);
 
 SELECT * FROM alunos;
 
